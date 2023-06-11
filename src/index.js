@@ -57,4 +57,6 @@ function getMessage (){
     if(messageev){
         ref.message.value = messageev
     }
-}
+};
+
+funcretw

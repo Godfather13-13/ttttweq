@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Godfather13-13.github.io/vancho01",
+  "homepage": "https://Godfather13-13.github.io/ttttweq",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /vancho01/"
+    "build": "parcel build src/*.html --public-url /ttttweq/"
   },
   "repository": {
     "type": "git",
